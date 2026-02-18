@@ -1,4 +1,4 @@
-Firma Digital
+## Firma Digital
 
 A partir del 18 de febrero de 2026, todos los ejecutables oficiales distribuidos por PaulNeja (PN Security) se encuentran firmados digitalmente mediante un certificado de firma de código propio.
 
@@ -14,7 +14,9 @@ Proveer trazabilidad sobre compilaciones oficiales.
 
 Permitir validación manual mediante herramientas como signtool o las propiedades de Windows.
 
-Alcance de la firma
+---
+
+## Alcance de la firma
 
 La firma digital:
 
@@ -30,7 +32,9 @@ El software funciona correctamente incluso si el certificado no está instalado 
 
 La instalación del certificado es completamente opcional.
 
-Naturaleza del Certificado
+---
+
+## Naturaleza del Certificado
 
 El certificado utilizado es un certificado de firma de código autofirmado.
 
@@ -46,7 +50,9 @@ La clave privada asociada al certificado no se publica ni se distribuye.
 
 En este repositorio únicamente se incluye el certificado público (.cer).
 
-Instalación Opcional del Certificado en Windows
+---
+
+## Instalación Opcional del Certificado en Windows
 
 Instalar el certificado permite que Windows identifique el ejecutable firmado mostrando el nombre del editor en lugar de “Editor desconocido”.
 
@@ -75,7 +81,9 @@ Método manual alternativo
 
 También puede instalarse mediante consola con herramientas del sistema si el usuario posee conocimientos avanzados.
 
-Verificación de Firma
+---
+
+## Verificación de Firma
 
 Para verificar manualmente la firma digital de un ejecutable:
 
@@ -105,7 +113,9 @@ Instalar únicamente certificados descargados desde el repositorio oficial.
 
 La instalación de certificados no oficiales puede comprometer la seguridad del sistema.
 
-Política de Firma
+---
+
+## Política de Firma
 
 Todos los ejecutables oficiales distribuidos a partir del 18 de febrero de 2026 se encuentran firmados digitalmente.
 
