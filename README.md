@@ -1,10 +1,12 @@
-SentinelDesk
+# SentinelDesk
 
 SentinelDesk is a modular technical analysis and diagnostic tool focused on defensive auditing in Windows environments.
 
 Developed by PaulNeja, founder of the independent cybersecurity research group PN Security.
 
-General Description
+---
+
+## General Description
 
 SentinelDesk has been designed as a local technical evaluation tool intended to perform preliminary analysis of operating system configurations, services, and behaviors.
 
@@ -12,7 +14,9 @@ Its purpose is to provide a structured foundation for defensive technical inspec
 
 The project is currently in an advanced experimental stage. Although the core functionality required for operation works correctly, the application is not free from minor errors, visual details pending optimization, or non-critical behaviors that will be progressively corrected in future versions.
 
-Project Status
+---
+
+## Project Status
 
 The current version should be considered functional but experimental.
 
@@ -30,11 +34,11 @@ Unexpected behavior may appear in certain environments.
 
 Development remains active, and structural improvements, internal optimization, and bug fixes are planned for future releases.
 
-Versioning Model
+## Versioning Model
 
 A clear separation between two branches is planned:
 
-Stable Versions
+### Stable Versions
 
 Higher level of validation.
 
@@ -44,7 +48,7 @@ Consolidated functionality.
 
 Lower probability of failures.
 
-Development Versions (DEV)
+### Development Versions (DEV)
 
 Experimental nature.
 
@@ -56,7 +60,9 @@ Not recommended for critical or production use.
 
 DEV versions may experience crashes, inconsistencies, or structural changes without prior notice.
 
-Scope and Limitations
+---
+
+## Scope and Limitations
 
 SentinelDesk:
 
@@ -72,7 +78,9 @@ It is primarily intended as a preliminary, exploratory, or educational analysis 
 
 Its use must be carried out under technical judgment and individual responsibility.
 
-Responsibility and Disclaimer of Warranties
+---
+
+##Responsibility and Disclaimer of Warranties
 
 The software is distributed “as is,” without express or implied warranty.
 
@@ -98,25 +106,27 @@ Improper, reckless, or illegal usage.
 
 The user assumes full responsibility for any risk arising from the use of the software.
 
-Languages
+---
+
+## Languages
 
 Currently, the application and documentation are available in Spanish.
 
 A complete English version is planned for future updates.
 
-License
+## License
 
 SentinelDesk is distributed under the GNU General Public License v3.
 
 The code may be used, modified, and redistributed under the terms of this license, preserving proper attribution.
 
-Author
+# Author
 
-PaulNeja
-Founder – PN Security
+### PaulNeja
+### Founder – PN Security
 Independent cybersecurity research group
 
-Note Regarding VirusTotal Analysis
+# Note Regarding VirusTotal Analysis
 
 The file has been analyzed on VirusTotal. Some heuristic engines may flag the compilation as suspicious due to packaging with PyInstaller (--onefile) and the use of system process execution.
 
