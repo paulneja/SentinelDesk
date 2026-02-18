@@ -131,3 +131,18 @@ El código puede ser utilizado, modificado y redistribuido bajo los términos de
 PaulNeja
 Fundador – PN Security
 Grupo independiente de investigación en ciberseguridad
+
+---
+
+# Nota sobre análisis en VirusTotal
+
+El archivo fue analizado en VirusTotal.
+Algunos motores heurísticos pueden marcar la compilación como sospechosa debido al empaquetado con PyInstaller (--onefile) y al uso de ejecución de procesos del sistema.
+
+Estas detecciones son genéricas (AI/heurísticas) y no corresponden a malware real.
+
+La compilación oficial se encuentra firmada digitalmente y puede verificarse mediante la huella SHA256 publicada en este repositorio.
+
+El código fuente completo está disponible en este mismo repositorio para su revisión y verificación independiente.
+
+SentinelDesk no contiene código malicioso.
