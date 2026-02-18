@@ -80,7 +80,7 @@ Its use must be carried out under technical judgment and individual responsibili
 
 ---
 
-##Responsibility and Disclaimer of Warranties
+## Responsibility and Disclaimer of Warranties
 
 The software is distributed “as is,” without express or implied warranty.
 
@@ -114,17 +114,23 @@ Currently, the application and documentation are available in Spanish.
 
 A complete English version is planned for future updates.
 
+---
+
 ## License
 
 SentinelDesk is distributed under the GNU General Public License v3.
 
 The code may be used, modified, and redistributed under the terms of this license, preserving proper attribution.
 
+---
+
 # Author
 
 ### PaulNeja
 ### Founder – PN Security
 Independent cybersecurity research group
+
+---
 
 # Note Regarding VirusTotal Analysis
 
