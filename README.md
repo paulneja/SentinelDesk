@@ -34,7 +34,7 @@ Pueden producirse comportamientos inesperados en ciertos entornos.
 
 El desarrollo continúa activo y se prevén mejoras estructurales, optimización interna y corrección de errores en versiones futuras.
 
---
+---
 
 ## Modelo de Versionado
 
