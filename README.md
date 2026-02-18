@@ -4,7 +4,9 @@ SentinelDesk es una herramienta modular de análisis y diagnóstico técnico ori
 
 Desarrollado por PaulNeja, fundador del grupo independiente de investigación en ciberseguridad PN Security.
 
-Descripción General
+---
+
+## Descripción General
 
 SentinelDesk ha sido diseñado como una herramienta de evaluación técnica local destinada a realizar análisis preliminares sobre configuraciones, servicios y comportamientos del sistema operativo.
 
@@ -12,7 +14,9 @@ Su objetivo es ofrecer una base estructurada para inspección técnica defensiva
 
 El proyecto se encuentra actualmente en fase experimental avanzada. Aunque el comportamiento básico y necesario para su funcionamiento opera correctamente, la aplicación no está libre de errores menores, detalles visuales pendientes de optimización o comportamientos no críticos que serán corregidos progresivamente en futuras versiones.
 
-Estado del Proyecto
+---
+
+## Estado del Proyecto
 
 La versión actual debe considerarse funcional pero experimental.
 
@@ -30,7 +34,9 @@ Pueden producirse comportamientos inesperados en ciertos entornos.
 
 El desarrollo continúa activo y se prevén mejoras estructurales, optimización interna y corrección de errores en versiones futuras.
 
-Modelo de Versionado
+--
+
+## Modelo de Versionado
 
 Se proyecta una separación clara entre dos ramas:
 
@@ -58,7 +64,9 @@ Las versiones DEV podrán experimentar colapsos, inconsistencias o cambios estru
 
 Alcance y Limitaciones
 
-SentinelDesk:
+---
+
+## SentinelDesk:
 
 No reemplaza herramientas profesionales de auditoría certificadas.
 
@@ -72,7 +80,9 @@ Está concebido principalmente como una herramienta de análisis preliminar, exp
 
 Su utilización debe realizarse bajo criterio técnico y responsabilidad individual.
 
-Responsabilidad y Exclusión de Garantías
+---
+
+## Responsabilidad y Exclusión de Garantías
 
 El software se distribuye “tal cual”, sin garantía expresa ni implícita.
 
@@ -98,19 +108,25 @@ Uso indebido, imprudente o ilegal.
 
 El usuario asume la totalidad del riesgo derivado del uso del software.
 
-Idiomas
+---
+
+#Idiomas
 
 Actualmente la aplicación y documentación se encuentran en español.
 
 Se prevé incorporar una versión completa en inglés en futuras actualizaciones.
 
-Licencia
+---
+
+## Licencia
 
 SentinelDesk se distribuye bajo licencia GNU General Public License v3.
 
 El código puede ser utilizado, modificado y redistribuido bajo los términos de dicha licencia, manteniendo la atribución correspondiente.
 
-Autor
+---
+
+## Autor
 
 PaulNeja
 Fundador – PN Security
