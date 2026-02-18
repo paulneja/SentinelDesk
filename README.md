@@ -110,7 +110,7 @@ El usuario asume la totalidad del riesgo derivado del uso del software.
 
 ---
 
-#Idiomas
+# Idiomas
 
 Actualmente la aplicación y documentación se encuentran en español.
 
