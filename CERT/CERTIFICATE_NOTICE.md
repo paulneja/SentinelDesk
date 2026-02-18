@@ -1,4 +1,4 @@
-## Firma Digital
+### Firma Digital
 
 A partir del 18 de febrero de 2026, todos los ejecutables oficiales distribuidos por PaulNeja (PN Security) se encuentran firmados digitalmente mediante un certificado de firma de código propio.
 
@@ -126,3 +126,17 @@ Compilación no oficial.
 Archivo modificado.
 
 Distribución no autorizada.
+
+---
+
+### Huella Digital del Certificado Oficial
+
+Certificado de Firma de Código — PaulNeja (PN Security)
+Válido a partir del 18 de febrero de 2026
+
+SHA1
+8F61E94560D1B2E621E7DC001F3742E472EAA9EA
+
+SHA256
+95BF563120D87ED73CC000CB35BB30173638C4014AA3388DC6BB70CB021EC536
+
