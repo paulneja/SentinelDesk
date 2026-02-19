@@ -1,6 +1,6 @@
 # Firma Digital
 
-A partir del 18 de febrero de 2026, todos los ejecutables oficiales distribuidos por PaulNeja (PN Security) se encuentran firmados digitalmente mediante un certificado de firma de código propio.
+A partir del 18 de febrero de 2026, todos los ejecutables oficiales distribuidos por PaulNeja (Yo) (PN Security) se encuentran firmados digitalmente mediante un certificado de firma de código propio.
 
 La firma digital cumple las siguientes funciones:
 
